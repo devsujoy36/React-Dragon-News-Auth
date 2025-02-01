@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/devsujoy36/" target="_blank">
+  <a href="[https://www.linkedin.com/in/devsujoy36/](https://m.facebook.com/sujoydas36/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/devsujoy36" target="_blank">
